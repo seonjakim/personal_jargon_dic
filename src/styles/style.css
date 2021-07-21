@@ -1,0 +1,58 @@
+/** css reset */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+div,
+nav,
+textarea,
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 14px;
+  vertical-align: baseline;
+  font: inherit;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+div {
+  border-radius: 4px;
+}
+
+/** start */
+.container {
+  margin: 15% 5%;
+}
+.title {
+  background-color: #fdd835;
+  color: white;
+  font-size: 1.6rem;
+  padding: 1em;
+  text-align: center;
+  border-radius: 4px;
+}
+.card-container {
+  border: 1px solid #eee;
+  /* height: 2.3em; */
+  width: 100%;
+  margin: 3% 0;
+  /* padding: 0.5em; */
+  font-size: 1.3rem;
+  /* text-justify: center; */
+  color: #808080;
+}
+.arrow-i {
+  width: 24px;
+  height: 24px;
+  background-image: url(https://pilly.kr/images/icons/common/icon-arrow-down.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 50%;
+  margin: 0 5% 0 auto;
+}
+.arrow-open {
+  transform: rotate(180deg);
+}
