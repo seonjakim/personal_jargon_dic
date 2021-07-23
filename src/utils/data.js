@@ -18,11 +18,11 @@ export const jargon = [
   },
   {
     name: 'Hypertext Transfer Protocol',
-    meaning: '웹서버와 웹브라우저에서 통신방법을 규정화한',
+    meaning: '웹서버와 웹브라우저에서 통신방법 규정',
   },
   {
     name: 'cookie',
-    meaning: '',
+    meaning: '인터넷 사용자의 컴퓨터에 설치되는 작은 기록 정보 파일',
   },
   // {
   //   name:'',

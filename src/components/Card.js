@@ -15,7 +15,9 @@ const Card = () => {
           borderTop: '1px solid #eee',
           paddingTop: '.3em',
           fontSize: '1.1rem',
-          padding: '2% 5%',
+          padding: '2% 0',
+          margin: '0 5%',
+          borderRadius: '0',
         }}
       >
         {el.meaning}
