@@ -24,7 +24,7 @@ div {
 
 /** start */
 .container {
-  margin: 15% 5%;
+  margin: 5%;
 }
 .title {
   background-color: #fdd835;
@@ -36,12 +36,9 @@ div {
 }
 .card-container {
   border: 1px solid #eee;
-  /* height: 2.3em; */
   width: 100%;
   margin: 3% 0;
-  /* padding: 0.5em; */
   font-size: 1.3rem;
-  /* text-justify: center; */
   color: #808080;
 }
 .arrow-i {
